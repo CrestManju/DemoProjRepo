@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+//here we are counting number of chars
 public class CountChar {
 
 	public static void main(String[] args) {
